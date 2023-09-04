@@ -23,6 +23,7 @@ export const Title = styled.div`
 export const NavLinks = styled.nav`
   display: flex;
   gap: 20px;
+  margin-bottom: 10px;
   @media (max-width: 560px) {
     flex-direction: column;
     background-color: #161616;
