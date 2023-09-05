@@ -44,7 +44,7 @@ export const Li = styled.li`
   border-radius: 10px;
   padding: 10px;
   @media (max-width: 760px) {
-   font-size: 13px;
+   font-size: 12px;
   }
 `;
 
